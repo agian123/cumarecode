@@ -1,3 +1,75 @@
-z="
-";WHz=' @an';nEz='PN  ';dHz='79" ';jBz='vpn.';wEz=' tee';MGz=' - A';OHz='eleg';tEz=' SSL';MDz='[Ins';CDz='in/b';FIz='etup';DIz='p 15';EIz='rf s';YFz='ver)';HCz='zh';kBz='sh &';eGz='esto';VEz=' >>>';OBz='ps:/';wHz=' ""';oDz=' "In';NGz='uto-';iFz=' 696';Nz='is s';DFz=' - S';YBz='/cum';EFz='tunn';TFz='8, 8';hGz='uto ';xDz=' "==';RHz='e/bo';eDz='oset';EBz='um-s';lCz='ment';bBz='main';HGz='flat';KGz='Ptab';yDz='====';IFz='7"  ';FCz='y.sh';Cz='EUID';PDz='edBy';pDz='stal';jDz='me/v';LDz='yes';Iz=' "Yo';fFz='0"  ';HHz='ev/M';NFz=', 14';nFz='ion ';yz='mkdi';IDz='inAf';gGz='ata"';kz='not ';ZCz='ett.';gCz='ion=';DBz='remi';OEz='--" ';BBz='ar/l';AFz='inst';ABz='r /v';eBz='.sh ';YEz='ort"';ZDz='-rel';EEz='um-=';KDz='xit=';Tz=' 1';BIz='"';Wz='syst';hDz='2" >';DGz='ail2';iGz='Dele';bHz='5396';SCz='cat ';cCz='[Uni';fBz='&& c';uBz='(cur';VCz='etc/';cHz='1724';bEz='-a l';MBz='wget';QHz=' T.m';iDz=' /ho';yCz='Exec';vFz=' Asi';HIz='ot';vEz='"  |';pFz='her ';JCz='f /r';QCz='ipse';oHz='reat';nGz='nt" ';Vz=' "$(';sCz='[Ser';uEz=' 442';oBz='vpn ';KBz='vps.';TEz='l.tx';MCz='wg.s';ACz='lti.';vCz='Type';bGz='p Da';XBz='oke1';rBz='n.sh';Oz='crip';eEz='ll.t';CGz=' - F';RCz='c.sh';TDz='targ';Rz='t"';FFz='el4 ';CEz='scri';hCz='auto';NHz='tr" ';SFz=' 312';XGz='00 G';wFz='a/Ja';AIz=' Sec';NBz=' htt';FBz='t;';MHz='ojec';yFz='a (G';PGz='ot  ';pBz='./ss';LGz='les ';CHz='Log ';kFz='ver ';GBz=' "IP';qHz='y CE';aDz='oad';pGz='Orde';fz=' the';GIz='rebo';LHz='h Pr';bFz='n   ';Hz='echo';tCz='vice';Ez='ne 0';Jz='u ne';cBz='/ssh';SEz='g-in';ZEz='  | ';tDz='een ';mGz='ccou';sEz='200,';kGz='xpir';rEz='DP 2';NDz='tall';UEz=' "  ';eFz=' 730';UDz='et';XCz='em/a';nBz=' -S ';PBz='/raw';BDz='t=/b';RDz='ti-u';PEz=' | t';GGz=']"  ';dz='envz';HEz='e -a';JBz='t/ip';GDz='.sh';qGz='rs F';CIz='slee';Mz='n th';lDz='clea';tz='n='\''\';pCz='d-fl';YHz='hats';gBz='hmod';NCz='h';YDz='emon';iBz='ssh-';nHz='pt C';YGz='7" |';aEz='tee ';dBz='-vpn';uz='e[0;';oEz=' TCP';PHz='ram ';jHz='m/ar';xz='\e[0';nDz=' " "';kHz='dian';JHz=' Ceu';JFz=' - D';wGz=' - W';HFz=', 77';uFz='one ';AEz='===-';BEz='Auto';uDz='comp';cEz='og-i';UBz='nt.c';SDz='ser.';xEz=' -a ';fDz='t';iz='enVZ';oCz='//re';Xz='emd-';ZGz='utob';rGz='or V';FHz='t/lo';yBz='//mu';mz='orte';xHz=' " R';Gz='then';mHz='Scri';qBz='h-vp';cDz='able';VFz='(lim';gz='n';ZHz='app ';IEz=' log';aGz='acku';qFz='Feat';Pz='t as';AGz='MT +';mFz='rmat';PFz='quid';EHz='/roo';fCz='ript';ZFz=' - B';rDz='on h';Zz='ct-v';cz=' "op';fEz='xt';DCz='app/';kEz='   :';TCz='<<EO';gFz=' - N';hEz='penS';aBz='ode/';Uz='fi';eCz='Desc';KFz='ropb';lz='supp';JDz='terE';gHz='/www';EDz='/etc';xCz='shot';ez='" ];';sHz='OH P';sBz='sour';GEz='| te';MFz=' 109';yEz='log-';cFz=' 710';hBz=' +x ';qz='1;31';OFz='3"  ';wz='NC='\''';LEz=' "" ';DEz='pt P';UHz='n"  ';QBz='.git';THz='ampa';dGz=' - R';HDz='Rema';WDz='emct';iCz='sett';mDz='r';XDz='l da';bDz='l en';wCz='=one';dFz='0, 7';xGz='hite';KEz='.txt';GCz=') --';tGz='us S';hHz='.fac';vBz='l -s';mBz='reen';yGz=' Lab';eHz='aceb';jz=' is ';Lz='o ru';VHz='gram';sDz='as b';dCz='t]';sGz='ario';TGz='utor';pz=''\''\e[';vHz='---"';ADz='Star';tHz='ROJE';Dz='}" -';lBz='& sc';sz='gree';Qz=' roo';CFz='txt';aFz='advp';UCz='F> /';vGz='ces"';uHz='CT--';Yz='dete';jEz='    ';oGz='ull ';cGz='ta" ';lFz='Info';jFz='9"  ';jCz='ing';fHz='ook ';vDz='lete';iHz='k.co';hFz='ginx';DHz='--> ';aCz='serv';Kz='ed t';fGz='re D';QGz='Pv6 ';lEz=' 22"';XEz=' & P';kCz='Docu';oFz='& Ot';pHz='ed B';jGz='te E';hz=' "Op';Bz=' "${';pEz=' 119';VGz='t On';QFz=' Pro';UFz='080 ';SBz='serc';wDz='d!!"';YCz='utos';bz='" ==';REz='a lo';QEz='ee -';kDz='er';xBz='tps:';UGz='eboo';IBz='> /v';sFz=' - T';WFz='it t';XHz='ds26';VDz='EOF';Az='if [';rCz='y.id';JGz=' - I';VBz='om/b';dDz=' aut';lGz='ed A';IGz='e   ';BHz='llat';JEz='-ins';rHz='U ED';tBz='ce <';qCz='at.m';RFz='xy  ';XFz='o IP';WGz=' 05.';WBz='okir';tFz='imez';bCz='ice';BFz='all.';SHz='kirt';BCz='netl';KCz='oot/';HBz='=" >';BGz='7)" ';xFz='kart';WEz=' Ser';vz='32m'\''';GFz=' 443';rFz='ures';aHz=' 089';Fz=' ]; ';LFz='ear ';IHz='ain ';RGz=' [OF';EGz='Ban ';Sz='exit';nz='d"';iEz='SH  ';rz='m'\''';MEz=' "--';uCz=']';AHz='el" ';NEz='----';OCz='ins-';CCz='ify.';ZBz='arec';FDz='/set';wBz='L ht';TBz='onte';qDz='lati';oz='red=';gEz=' - O';ODz='Want';yHz='t 15';KHz=' Edo';PCz='vt.s';lHz='ds" ';ICz='rm -';uGz='ervi';DDz='ash ';az='irt)';mCz='atio';LCz='sh';CBz='ib/p';WCz='emd/';dEz='nsta';FGz=' [ON';ECz='v2ra';QDz='=mul';FEz='==" ';gDz=' "1.';qEz='4, U';OGz='Rebo';LBz='conf';SGz='F]" ';nCz='n=ht';GHz='t"  ';RBz='hubu';mEz='penV';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$z$Uz$z$Az$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$z$Hz$hz$iz$jz$kz$lz$mz$nz$z$Sz$Tz$z$Uz$z$oz$pz$qz$rz$z$sz$tz$uz$vz$z$wz$xz$rz$z$yz$ABz$BBz$CBz$DBz$EBz$Oz$FBz$z$Hz$GBz$HBz$IBz$BBz$CBz$DBz$EBz$Oz$JBz$KBz$LBz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$iBz$oBz$pBz$qBz$rBz$z$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$ICz$JCz$KCz$iBz$jBz$LCz$z$ICz$JCz$KCz$MCz$NCz$z$ICz$JCz$KCz$OCz$PCz$NCz$z$ICz$JCz$KCz$QCz$RCz$z$SCz$TCz$UCz$VCz$Wz$WCz$Wz$XCz$YCz$ZCz$aCz$bCz$z$cCz$dCz$z$eCz$fCz$gCz$hCz$iCz$jCz$z$kCz$lCz$mCz$nCz$xBz$oCz$pCz$qCz$rCz$z$sCz$tCz$uCz$z$vCz$wCz$xCz$z$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$z$HDz$IDz$JDz$KDz$LDz$z$MDz$NDz$uCz$z$ODz$PDz$QDz$RDz$SDz$TDz$UDz$z$VDz$z$Wz$WDz$XDz$YDz$ZDz$aDz$z$Wz$WDz$bDz$cDz$dDz$eDz$fDz$z$Hz$gDz$hDz$iDz$jDz$kDz$z$lDz$mDz$z$Hz$nDz$z$Hz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$z$Hz$nDz$z$Hz$xDz$yDz$yDz$yDz$yDz$yDz$yDz$yDz$AEz$BEz$CEz$DEz$DBz$EEz$yDz$yDz$yDz$yDz$yDz$yDz$FEz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$LEz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$MEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$NEz$OEz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$LEz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$VEz$WEz$tCz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$z$Hz$UEz$gEz$hEz$iEz$jEz$jEz$jEz$kEz$lEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$z$Hz$UEz$gEz$mEz$nEz$jEz$jEz$jEz$kEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$z$Hz$UEz$DFz$EFz$FFz$jEz$jEz$jEz$kEz$GFz$HFz$IFz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JFz$KFz$LFz$jEz$jEz$jEz$kEz$MFz$NFz$OFz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$DFz$PFz$QFz$RFz$jEz$jEz$kEz$SFz$TFz$UFz$VFz$WFz$XFz$WEz$YFz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$z$Hz$UEz$ZFz$aFz$bFz$jEz$jEz$jEz$kEz$cFz$dFz$sEz$eFz$fFz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$gFz$hFz$jEz$jEz$jEz$jEz$kEz$iFz$jFz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$LEz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$VEz$WEz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$z$Hz$UEz$sFz$tFz$uFz$jEz$jEz$jEz$kEz$vFz$wFz$xFz$yFz$AGz$BGz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$CGz$DGz$EGz$jEz$jEz$jEz$kEz$FGz$GGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JFz$HGz$IGz$jEz$jEz$jEz$kEz$FGz$GGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JGz$KGz$LGz$jEz$jEz$jEz$kEz$FGz$GGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$MGz$NGz$OGz$PGz$jEz$jEz$kEz$FGz$GGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JGz$QGz$jEz$jEz$jEz$jEz$kEz$RGz$SGz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$MGz$TGz$UGz$VGz$WGz$XGz$AGz$YGz$wEz$xEz$yEz$AFz$BFz$CFz$z$Hz$UEz$MGz$ZGz$aGz$bGz$cGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$dGz$eGz$fGz$gGz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$MGz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$CGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$wGz$xGz$yGz$AHz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JGz$dEz$BHz$nFz$CHz$DHz$EHz$FHz$SEz$pDz$TEz$GHz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$LEz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$JFz$HHz$IHz$jEz$jEz$jEz$kEz$JHz$KHz$LHz$MHz$NHz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$sFz$OHz$PHz$jEz$jEz$jEz$kEz$QHz$RHz$SHz$THz$UHz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$UEz$JGz$dEz$VHz$jEz$jEz$jEz$kEz$WHz$XHz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$z$Hz$UEz$wGz$YHz$ZHz$jEz$jEz$jEz$kEz$aHz$bHz$cHz$dHz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$UEz$CGz$eHz$fHz$jEz$jEz$jEz$kEz$NBz$OBz$gHz$hHz$UGz$iHz$jHz$kHz$lHz$GEz$HEz$IEz$JEz$NDz$KEz$z$Hz$MEz$NEz$NEz$NEz$NEz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$NEz$NEz$NEz$vHz$PEz$QEz$REz$SEz$pDz$TEz$fDz$z$Hz$wHz$z$Hz$xHz$UGz$yHz$AIz$BIz$z$CIz$DIz$z$ICz$EIz$FIz$GDz$z$GIz$HIz"
+if [ "${EUID}" -ne 0 ]; then
+echo "You need to run this script as root"
+exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+echo "OpenVZ is not supported"
+exit 1
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+mkdir /var/lib/premium-script;
+echo "IP=" >> /var/lib/premium-script/ipvps.conf
+wget https://raw.githubusercontent.com/bokiroke1/cumarecode/main/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
+source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
+rm -f /root/ssh-vpn.sh
+rm -f /root/wg.sh
+rm -f /root/ins-vt.sh
+rm -f /root/ipsec.sh
+cat <<EOF> /etc/systemd/system/autosett.service
+[Unit]
+Description=autosetting
+Documentation=https://red-flat.my.id
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /etc/set.sh
+RemainAfterExit=yes
+[Install]
+WantedBy=multi-user.target
+EOF
+systemctl daemon-reload
+systemctl enable autosett
+echo "1.2" > /home/ver
+clear
+echo " "
+echo "Installation has been completed!!"
+echo " "
+echo "=================================-Autoscript Premium-===========================" | tee -a log-install.txt
+echo "" | tee -a log-install.txt
+echo "--------------------------------------------------------------------------------" | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "   >>> Service & Port"  | tee -a log-install.txt
+echo "   - OpenSSH                 : 22"  | tee -a log-install.txt
+echo "   - OpenVPN                 : TCP 1194, UDP 2200, SSL 442"  | tee -a log-install.txt
+echo "   - Stunnel4                : 443, 777"  | tee -a log-install.txt
+echo "   - Dropbear                : 109, 143"  | tee -a log-install.txt
+echo "   - Squid Proxy             : 3128, 8080 (limit to IP Server)"  | tee -a log-install.txt
+echo "   - Badvpn                  : 7100, 7200, 7300"  | tee -a log-install.txt
+echo "   - Nginx                   : 6969"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "   >>> Server Information & Other Features"  | tee -a log-install.txt
+echo "   - Timezone                : Asia/Jakarta (GMT +7)"  | tee -a log-install.txt
+echo "   - Fail2Ban                : [ON]"  | tee -a log-install.txt
+echo "   - Dflate                  : [ON]"  | tee -a log-install.txt
+echo "   - IPtables                : [ON]"  | tee -a log-install.txt
+echo "   - Auto-Reboot             : [ON]"  | tee -a log-install.txt
+echo "   - IPv6                    : [OFF]"  | tee -a log-install.txt
+echo "   - Autoreboot On 05.00 GMT +7" | tee -a log-install.txt
+echo "   - Autobackup Data" | tee -a log-install.txt
+echo "   - Restore Data" | tee -a log-install.txt
+echo "   - Auto Delete Expired Account" | tee -a log-install.txt
+echo "   - Full Orders For Various Services" | tee -a log-install.txt
+echo "   - White Label" | tee -a log-install.txt
+echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "   - Dev/Main                : Ceu Edoh Projectr"  | tee -a log-install.txt
+echo "   - Telegram                : T.me/bokirtampan"  | tee -a log-install.txt
+echo "   - Instagram               : @ands26"  | tee -a log-install.txt
+echo "   - Whatsapp                : 0895396172479"  | tee -a log-install.txt
+echo "   - Facebook                : https://www.facebook.com/ardiands" | tee -a log-install.txt
+echo "------------------Script Created By CEU EDOH PROJECT-----------------" | tee -a log-install.txt
+echo ""
+echo " Reboot 15 Sec"
+sleep 15
+rm -rf setup.sh
+reboot
